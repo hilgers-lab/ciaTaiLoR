@@ -2,7 +2,6 @@
 ## R package for feature extraction and long-read processing
 <!-- badges: start -->
 
-  ![GitHub release (latest SemVer)](https://img.shields.io/github/v1.0.0/release/hilgers-lab/ciaTaiLoR)
 [![Maintained?](https://img.shields.io/badge/Maintained%3F-Yes-brightgreen)](https://github.com/hilgers-lab/ciaTaiLoR/graphs/contributors)
 [![Install](https://img.shields.io/badge/Install-Github-brightgreen)](#installation)
   [![Downloads](https://img.shields.io/github/downloads/hilgers-lab/ciaTaiLoR/total)]()
