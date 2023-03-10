@@ -20,7 +20,6 @@
 
   ```
   library(ciaTaiLoR)
-  vignette("ciaTaiLoR")
   ```
   ### 3'end correction and long-read processing
 
