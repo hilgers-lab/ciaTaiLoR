@@ -34,7 +34,8 @@ Imports:
     stringr,
     BSgenome.Dmelanogaster.UCSC.dm6,
     data.table,
-    Biostrings
+    Biostrings,
+    rmdformats
 Suggests: 
     knitr,
     rmarkdown,
