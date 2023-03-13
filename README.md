@@ -25,7 +25,7 @@
 
   For 3'end correction and long-read processing and example vignette is available [here](https://hilgers-lab.github.io/polyADataBase/docs/polyADatabase.html)
   
-  For examples of feature extraction using ciaTaiLoR documentation can be found [here](https://hilgers-lab.github.io/ciaFeatures/docs/CIAfeatureExtraction.html) 
+  For examples of feature extraction using ciaTaiLoR documentation can be found [here](https://hilgers-lab.github.io/ciaFeatures/docs/ciaFeatureExtraction.html) 
   
 # Release
 
