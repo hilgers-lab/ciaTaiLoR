@@ -8,7 +8,6 @@
   ![GitHub](https://img.shields.io/github/license/hilgers-lab/ciaTaiLoR)
   <!-- badges: end -->
 
-    LASER determines the regulatory connections between exons, 5' ends, and 3' ends by analyzing every read as a complete transcript and using multinomial testing to evaluate the frequency of co-occurrence among these features.
 
 
   ### Installation
