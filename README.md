@@ -5,7 +5,7 @@
 [![Maintained?](https://img.shields.io/badge/Maintained%3F-Yes-brightgreen)](https://github.com/hilgers-lab/ciaTaiLoR/graphs/contributors)
 [![Install](https://img.shields.io/badge/Install-Github-brightgreen)](#installation)
   [![Downloads](https://img.shields.io/github/downloads/hilgers-lab/ciaTaiLoR/total)]()
-  ![GitHub](https://img.shields.io/github/license/hilgers-lab/ciaTaiLoR)
+  [![DOI](https://zenodo.org/badge/612242482.svg)](https://zenodo.org/badge/latestdoi/612242482)
   <!-- badges: end -->
 
 
